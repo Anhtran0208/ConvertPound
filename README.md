@@ -1,33 +1,10 @@
 
-# AND101 Project 4 - CodeMath
+# AND101 Project Convert Pound
 
-Submitted by: **2023**
-
-Time spent: **5** hours spent in total
 
 ## Summary
 
-**ConvertPound** is an android app that converts kilograms to pounds
-
-
-## Application Features
-
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
-
-The following REQUIRED features are completed:
-
-- [x ] At least one (1) user input
-- [ x] At least one (1) interactive View
-- [x ] At least one (1) output of a calculation based on the user input
-
-The following STRETCH features are implemented:
-
-- [ ] Implement ViewBinding to reduce boilerplate code and increase efficiency
-- [ ] Add at least one (1) additional functionality
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
+**ConvertPound** is an Android app that converts kilograms to pounds
 
 ## Video Demo
 
@@ -37,10 +14,6 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 GIF created with **ScreenToGif**
 
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
 
 
 ## License
